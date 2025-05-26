@@ -18,6 +18,7 @@ sudo apt install virtualbox-guest-utils -y
 sudo apt install jupyerlab
 sudo apt install vscode
 sudo apt install alacritty
+sudo apt install nvim -y
 
 sudo apt install nmap -y
 sudo apt install wireshark -y
