@@ -11,7 +11,7 @@ echo "# ----- fichiers specifiques -----" >> ~/.bashrc
 echo "alias md='glow'" >> ~/.bashrc
 
 echo "# ----- productivite -----" >> ~/.bashrc
-echo "alias todo='cat ~/todo.txt'" >> ~/.bashrc
+echo "alias todo='glow ~/todo.md'" >> ~/.bashrc
 
 echo "# ----- edition rapide -----" >> ~/.bashrc
 echo "alias bashrc='nano ~/.bashrc'" >> ~/.bashrc
