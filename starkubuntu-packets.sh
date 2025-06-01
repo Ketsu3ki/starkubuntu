@@ -18,7 +18,7 @@ sudo apt install virtualbox-guest-utils -y
 
 sudo apt install jupyterlab -y
 sudo apt install alacritty -y
-sudo apt install nvim -y
+sudo apt install nvim --classic -y
 sudo apt install notion -y
 
 sudo apt install nmap -y
