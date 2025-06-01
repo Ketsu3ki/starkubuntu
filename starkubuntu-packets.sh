@@ -16,9 +16,10 @@ sudo apt install valgrind -y
 sudo apt install virtualbox -y
 sudo apt install virtualbox-guest-utils -y
 
-sudo apt install jupyterlab -y
+sudo apt install python3 python3-pip -y
+sudo pip3 install jupyterlab -y
 sudo apt install alacritty -y
-sudo apt install notion -y
+sudo apt install notion-app -y
 
 sudo apt install nmap -y
 sudo apt install wireshark -y
