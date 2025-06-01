@@ -14,6 +14,6 @@ echo "# ----- productivite -----" >> ~/.bashrc
 echo "alias todo='glow ~/todo.md'" >> ~/.bashrc
 
 echo "# ----- edition rapide -----" >> ~/.bashrc
-echo "alias bashrc='nano ~/.bashrc'" >> ~/.bashrc
+echo "alias bashrc='nvim ~/.bashrc'" >> ~/.bashrc
 echo "alias reload='source ~/.bashrc'" >> ~/.bashrc
 
