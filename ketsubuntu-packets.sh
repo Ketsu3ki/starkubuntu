@@ -11,12 +11,12 @@ echo "╚═╝  ╚═╝╚═╝        ╚═╝       ╚═╝     ╚═�
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install gcc -y
+sudo apt install curl -y
 sudo apt install valgrind -y
 sudo apt install virtualbox -y
 sudo apt install virtualbox-guest-utils -y
 
-sudo apt install jupyerlab -y
-sudo apt install vscode -y
+sudo apt install jupyterlab -y
 sudo apt install alacritty -y
 sudo apt install nvim -y
 sudo apt install notion -y
@@ -34,6 +34,8 @@ echo "███████║██║ ╚████║██║  ██║�
 echo "╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝"
 
 sudo snap install clion --classic
+sudo snap install code --classic 
+sudo snap install sublime-text --classic
 sudo snap install onlyoffice-desktopeditors
 sudo snap install bitwarden
 sudo snap install spotify
