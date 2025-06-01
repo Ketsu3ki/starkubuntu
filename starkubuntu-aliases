@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "# ----- navigation -----" >> ~/.bashrc
+echo "alias cdev='cd ~/dev'" >> ~/.bashrc
+echo "alias ..='cd ..'" >> ~/.bashrc
+echo "alias ...='cd ../..'" >> ~/.bashrc
+
+echo "# ----- fichiers specifiques -----" >> ~/.bashrc
+echo "alias md='glow'" >> ~/.bashrc
+
+echo "# ----- productivite -----" >> ~/.bashrc
+echo "alias todo='cat ~/todo.txt'" >> ~/.bashrc
+
+echo "# ----- edition rapide -----" >> ~/.bashrc
+echo "alias bashrc='nano ~/.bashrc'" >> ~/.bashrc
+echo "alias reload='source ~/.bashrc'" >> ~/.bashrc
+
