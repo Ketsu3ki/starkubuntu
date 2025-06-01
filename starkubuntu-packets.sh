@@ -39,3 +39,4 @@ sudo snap install sublime-text --classic
 sudo snap install onlyoffice-desktopeditors
 sudo snap install bitwarden
 sudo snap install spotify
+sudo snap install glow
