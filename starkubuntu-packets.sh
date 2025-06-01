@@ -18,7 +18,6 @@ sudo apt install virtualbox-guest-utils -y
 
 sudo apt install jupyterlab -y
 sudo apt install alacritty -y
-sudo apt install nvim --classic -y
 sudo apt install notion -y
 
 sudo apt install nmap -y
@@ -36,6 +35,7 @@ echo "╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚�
 sudo snap install clion --classic
 sudo snap install code --classic 
 sudo snap install sublime-text --classic
+sudo snap install nvim --classic
 sudo snap install onlyoffice-desktopeditors
 sudo snap install bitwarden
 sudo snap install spotify
