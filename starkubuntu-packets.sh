@@ -15,6 +15,9 @@ sudo apt install curl -y
 sudo apt install valgrind -y
 sudo apt install virtualbox -y
 sudo apt install virtualbox-guest-utils -y
+sudo apt install git -y
+sudo apt install gnome-shell gsettings-desktop-schemas -y
+
 
 sudo apt install python3 python3-pip -y
 sudo pip3 install jupyterlab -y
