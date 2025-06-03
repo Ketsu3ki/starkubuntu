@@ -6,6 +6,7 @@ echo "alias ..='cd ..'" >> ~/.bashrc
 echo "alias ...='cd ../..'" >> ~/.bashrc
 echo "alias size='du -sh * | sort -hr'" >> ~/.bashrc
 echo "alias ffind='find . -type f -iname'" >> ~/.bashrc
+echo "alias cls='clear'" >> ~/.bashrc
 
 echo "# ----- fichiers specifiques -----" >> ~/.bashrc
 echo "alias md='glow'" >> ~/.bashrc
